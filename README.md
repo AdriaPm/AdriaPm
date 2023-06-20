@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Adrià Pons</h1>
 <h3 align="center">A passionate Bachelor's Student in Video Game Design & Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adriapm&label=Profile%20views&color=0e75b6&style=flat" alt="adriapm" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriapm" alt="adriapm" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adria_pm" target="blank"><img src="https://img.shields.io/twitter/follow/adria_pm?logo=twitter&style=for-the-badge" alt="adria_pm" /></a> </p>
 
 - 🌱 I’m currently learning **3D Environment Art, Game Design and Project Management**
 
-- 💬 Ask me about **anything you are wondering about!**
+- 💬 Ask me about **anything you are wondering about myself!**
 
 - 📫 How to reach me: **adriapm1950@gmail.com**
 
-- ⚡ Fun fact **I love order and practicing sports!**
+- ⚡ Fun fact **I**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriapm&show_icons=true&locale=en&layout=compact" alt="adriapm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adriapm&show_icons=true&locale=en" alt="adriapm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adriapm&" alt="adriapm" /></p>
-
