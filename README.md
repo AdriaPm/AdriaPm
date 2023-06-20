@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **adriapm1950@gmail.com**
 
-- ⚡ Fun fact **I**
+- ⚡ Fun fact **I love order and practicing sports!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
