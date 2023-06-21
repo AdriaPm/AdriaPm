@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/adria_pm" target="blank"><img src="https://img.shields.io/twitter/follow/adria_pm?logo=twitter&style=for-the-badge" alt="adria_pm" /></a> </p>
 
-- 🌱 I’m currently learning **3D Environment Art, Game Design and Project Management**
+- 🌱 I’m currently learning **3D Environment Art, Game Design and Project Management**.
 
 - 💬 Ask me about **anything you are wondering about myself!**
 
 - 📫 How to reach me: **adriapm1950@gmail.com**
+
+- 📚 You can check some of my work done [**here**](https://adria_pm.artstation.com/).
 
 - ⚡ Fun fact **I love order and practicing sports!**
 
