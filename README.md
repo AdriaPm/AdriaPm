@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything you are wondering about myself!**
 
-- 📫 How to reach me: **adriapm1950@gmail.com**
+- 📫 How to reach me: **adria.pons.mensa@estudiantat.upc.edu**
 
 - 📚 You can check some of my work done [**here**](https://adria_pm.artstation.com/).
 
