@@ -17,7 +17,6 @@
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adria_pm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adria_pm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adria-pons-mensa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adria-pons-mensa" height="30" width="40" /></a>
 <a href="mailto:adria.pons.mensa@estudiantat.upc.edu" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="adria.pons.mensa@estudiantat.upc.edu" height="30" width="40" /></a>
 </p>
