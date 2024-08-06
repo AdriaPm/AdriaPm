@@ -4,7 +4,7 @@
 <!-- Profile views widget -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriapm&label=Profile%20views&color=0e75b6&style=flat" alt="adriapm" /> </p>
 
-- 🌱 I’m currently learning **3D Generalist Art, Game Design and Project Management**.
+- 🌱 I’m currently learning **3D Generalist Art, Game Design, and Unity development**.
 
 - 💬 Ask me about **anything you are wondering about myself!**
 
