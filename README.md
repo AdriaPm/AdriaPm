@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **adria.pons.mensa@estudiantat.upc.edu**
 
-- 📚 You can check some of my work done [**here**](https://adria_pm.artstation.com/).
+- 📚 You can check some of my work done [**here**](https://adriaponsmensa.wixsite.com/portfolio).
 
 - ⚡ Fun fact **I love order and practicing sports!**
 
