@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **anything you are wondering about myself!**
 
-- 📫 How to reach me: **adria.pons.mensa@estudiantat.upc.edu**
+- 📫 How to reach me: **adriaponsmensa@gmail.com**
 
 - 📚 You can check some of my work done [**here**](https://adriaponsmensa.wixsite.com/portfolio).
 
