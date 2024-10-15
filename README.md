@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adrià Pons</h1>
 <h3 align="center">A passionate Bachelor's Student in Video Game Design & Development</h3>
 
-<!-- Profile views widget -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adriapm&label=Profile%20views&color=0e75b6&style=flat" alt="adriapm" /> </p>
 
-- 🌱 I’m currently learning **3D Generalist Art, Game Design, and Unity development**.
+- 🌱 I’m currently learning **3D Generalist Art, Game Design, and Unity Development**.
 
 - 💬 Ask me about **anything you are wondering about myself!**
 
