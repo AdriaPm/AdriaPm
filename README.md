@@ -10,8 +10,6 @@
 
 - 📚 You can check some of my work done [**here**](https://adriaponsmensa.wixsite.com/portfolio).
 
-- ⚡ Fun fact **I love order and practicing sports!**
-
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,5 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriapm&show_icons=true&locale=en&layout=compact" alt="adriapm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adriapm&show_icons=true&locale=en" alt="adriapm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adriapm&" alt="adriapm" /></p>
