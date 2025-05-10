@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Bachelor's Student in Video Game Design & Development</h3>
 
 
-- 🌱 I’m currently learning **3D Generalist Art, Game Design, and Unity Development**.
+- 🌱 I’m currently learning **3D Generalist Art, Technical Art, and Unity Development**.
 
 - 💬 Ask me about **anything you are wondering about myself!**
 
