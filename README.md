@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **adriaponsmensa@gmail.com**
 
-- 📚 You can check some of my work done [**here**](https://adriaponsmensa.wixsite.com/portfolio).
+- 📚 You can check some of my work done [**here**](https://adria_pm.artstation.com/).
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
