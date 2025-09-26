@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **adriaponsmensa@gmail.com**
 
-- 📚 You can check some of my work done [**here**](https://adria_pm.artstation.com/).
+- 📚 You can check some of my work done [**here**](https://adriaponsmensa.vercel.app/).
 
 
 ## 🌐 Socials:
