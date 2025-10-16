@@ -2,7 +2,7 @@
 <h3 align="center">A Technical Artist and Unity Developer</h3>
 
 ## 🙋‍♂️ About Me:
-- 🌱 I work as a  **Technical Artist, Unity Developer, and 3D Artist**.
+- 🌱 I work as a  **Unity Developer, UI/UX Designer, and 3D Artist**.
 
 - 💬 Ask me about **anything you are wondering about me!**
 
